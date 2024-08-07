@@ -1,2 +1,2 @@
 # distnode-deploy
-Distributed node sample project
+Distributed node Project from scratch using only open source technologies.
